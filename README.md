@@ -6,7 +6,7 @@
 - Sedang belajar membangun branding untuk audiens
 - Siap membangun kode untuk Anda!
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 ![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanCoders&show_icons=true&theme=radical)
 
 ### Tech Stack:
