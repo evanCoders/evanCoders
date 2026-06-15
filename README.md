@@ -1,6 +1,6 @@
 ## Hallo, I'M Evan Purnamalila Kosasih
 
-![Evan Purnamalila Kosasih](image/evanCoders.jpeg)
+![Evan Purnamalila Kosasih](https://raw.githubusercontent.com/evanCoders/evanCoders/main/image/evanCoders.jpeg)
 <!--
 **evanCoders/evanCoders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
+
+
