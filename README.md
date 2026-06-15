@@ -2,9 +2,9 @@
 
 ![Evan Purnamalila Kosasih](image/evanCoders.jpeg)
 
-✨ Developer pemula yang antusias dalam Code Craft
-💡 Sedang belajar membangun branding untuk audiens
-🚀 Siap membangun kode untuk Anda!
+- Developer pemula yang antusias dalam Code Craft
+- Sedang belajar membangun branding untuk audiens
+- Siap membangun kode untuk Anda!
 
 ### 📊 GitHub Stats:
 ![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanCoders&show_icons=true&theme=radical)
