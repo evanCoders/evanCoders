@@ -4,7 +4,7 @@
 
 - **Developer pemula** yang antusias dalam **Code Craft**  
 - Sedang belajar membangun **branding** untuk audiens  
-- Siap membangun kode untuk Anda!
+- Siap membangun kode untuk Anda
 
 ---
 
@@ -37,7 +37,13 @@
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,mariadb,php,python,laravel,git,github,gitlab,canva&perline=9)
 
-> **Catatan:** Seluruh skill di atas masih dalam tahap **Basic** — terus belajar dan berkembang! 
+**Catatan Level Kemampuan:**
+
+- PHP, Python, Laravel, Google Sign In -> Basic (masih belajar intensif)
+- MySQL, MariaDB, HTML, CSS, Git -> Nyaman digunakan
+- GitHub, GitLab, Canva -> Operasional dasar
+
+Target: semua skill minimal level Nyaman ke depan
 
 ---
 
@@ -46,6 +52,21 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vanzzsac2)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/EvanooE73986)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evancoder70@gmail.com)
+
+---
+
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanCoders/evanCoders/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evanCoders/evanCoders/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/evanCoders/evanCoders/pacman-output/pacman-contribution-graph.svg">
+</picture>
+---
+
+### Snake Animation
+
+<img src="https://raw.githubusercontent.com/evanCoders/evanCoders/snake-output/snake.svg" alt="Snake animation" />
 
 ---
 
