@@ -61,11 +61,6 @@ Target: semua skill minimal level Nyaman ke depan
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/evanCoders/evanCoders/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/evanCoders/evanCoders/snake-output/snake.svg" alt="Snake animation" />
-
-###
 ---
 
 ![](https://komarev.com/ghpvc/?username=evanCoders&icon=0&color=0)
