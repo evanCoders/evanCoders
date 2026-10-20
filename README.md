@@ -83,7 +83,7 @@ Saya terbuka terhadap ide baru, proses belajar bersama, dan kesempatan berkolabo
 If you find my work useful and want to support my learning journey and future projects, you can support me through Saweria.
 
 <p align="left">
-  <a href="GANTI_DENGAN_LINK_SAWERIA_KAMU">
+  <a href="https://saweria.co/evanCoders">
     <img src="https://img.shields.io/badge/Support%20Me%20on-Saweria-FFB000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Saweria" />
   </a>
 </p>
