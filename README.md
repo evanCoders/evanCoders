@@ -1,26 +1,16 @@
 
 <div align="center">
+
   <img src="assets/header.svg" width="100%" alt="EvanCoders — Ideas into digital solutions" />
-</div>
 
-<br />
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9BBF3B&center=true&vCenter=true&width=600&lines=Learning+%26+Building+Digital+Solutions;Web+%26+Application+Development;Turning+Ideas+Into+Useful+Products" alt="Typing SVG" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Currently%20Learning-9BBF3B?style=flat-square&labelColor=161B22" alt="Currently Learning" />
-  <img src="https://img.shields.io/badge/Location-West%20Java%2C%20Indonesia-9BBF3B?style=flat-square&labelColor=161B22" alt="Location" />
-</p>
-
+  <br />
 </div>
 
 ---
 
 ## Tentang Saya
 
-Saya **Evan Purnamalila Kosasih**, Junior Developer dari Jawa Barat, Indonesia, yang sedang mempelajari dan mengembangkan kemampuan di bidang web dan aplikasi.
+Saya **Evan Purnamalila Kosasih**, Junior Developer dari **Jawa Barat, Indonesia**, yang sedang mempelajari dan mengembangkan kemampuan di bidang web dan aplikasi.
 
 Saya senang mengeksplorasi ide, memahami cara kerja suatu sistem, dan mencoba mengubah gagasan menjadi solusi digital yang bermanfaat. Dalam proses pengembangan, saya berusaha mengutamakan logika, fungsionalitas, efisiensi, dan kebutuhan pengguna.
 
@@ -35,7 +25,10 @@ Saya terbuka terhadap ide baru, proses belajar bersama, dan kesempatan berkolabo
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,kotlin,react,vue,laravel,nodejs,mysql,git,github,vscode&perline=7" alt="Technologies and tools" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,php,python,kotlin,react,vue,laravel,nodejs,mysql,git,github,vscode&perline=7"
+    alt="Technologies and tools"
+  />
 </p>
 
 ---
@@ -44,13 +37,25 @@ Saya terbuka terhadap ide baru, proses belajar bersama, dan kesempatan berkolabo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=evanCoders&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9BBF3B&icon_color=9BBF3B&text_color=E6EDF3&rank_icon=github" height="170" alt="GitHub statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=evanCoders&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9BBF3B&icon_color=9BBF3B&text_color=E6EDF3&rank_icon=github"
+    height="170"
+    alt="GitHub statistics"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanCoders&layout=compact&hide_border=true&bg_color=0D1117&title_color=9BBF3B&text_color=E6EDF3&langs_count=8" height="170" alt="Most used programming languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanCoders&layout=compact&hide_border=true&bg_color=0D1117&title_color=9BBF3B&text_color=E6EDF3&langs_count=8"
+    height="170"
+    alt="Most used programming languages"
+  />
 
-<br />
+  <br />
 
-<img src="https://streak-stats.demolab.com?user=evanCoders&hide_border=true&background=0D1117&ring=9BBF3B&fire=9BBF3B&currStreakLabel=9BBF3B&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="70%" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=evanCoders&hide_border=true&background=0D1117&ring=9BBF3B&fire=9BBF3B&currStreakLabel=9BBF3B&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"
+    width="70%"
+    alt="GitHub contribution streak"
+  />
 
 </div>
 
@@ -85,8 +90,8 @@ If you find my work useful and want to support my learning journey and future pr
 
 ---
 
-<div align="center">
-
-<sub>Learning continuously. Building thoughtfully. Improving every day.</sub>
-
-</div>
+<img
+    src="assets/footer.svg"
+    width="100%"
+    alt="Thank You for Visiting — EvanCoders"
+  />
