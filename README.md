@@ -1,9 +1,9 @@
 
 <div align="center">
+  <img src="assets/header.svg" width="100%" alt="EvanCoders — Ideas into digital solutions" />
+</div>
 
-# EVAN PURNAMALILA KOSASIH
-
-### Junior Web & Application Developer
+<br />
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9BBF3B&center=true&vCenter=true&width=600&lines=Learning+%26+Building+Digital+Solutions;Web+%26+Application+Development;Turning+Ideas+Into+Useful+Products" alt="Typing SVG" />
