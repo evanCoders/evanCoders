@@ -1,66 +1,47 @@
-## Hallo, I'm Evan Purnamalila Kosasih 
+👋 Hi, I'm Evan — "evanCoders"
 
-![Evan Purnamalila Kosasih](image/evanCoders.jpeg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=9BBF3B&center=true&vCenter=true&width=600&lines=Creative+Developer;Web+Developer+in+Progress;Building+Ideas+into+Real+Products" alt="Typing SVG" />
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9BBF3B&height=2&section=header" width="100%" alt="divider" />
+</p>About Me
 
-- **Developer pemula** yang antusias dalam **Code Craft**  
-- Sedang belajar membangun **branding** untuk audiens  
-- Siap membangun kode untuk Anda
+I'm Evan, a student and aspiring Web Developer from Indonesia, building my skills through personal projects, experimentation, and continuous learning.
 
----
+I enjoy turning ideas into useful digital products, focusing on functionality, efficiency, and user needs. For me, development is not just about writing code, but also about understanding problems and designing practical solutions.
 
-### GitHub Stats
+- 🌱 Currently learning React, Laravel, Node.js, and UI/UX
+- 💻 Building web applications and exploring new technologies
+- 🧩 Interested in problem-solving, system logic, and product development
+- 🤝 Open to collaboration, learning, and sharing ideas
+- 🎯 Goal: Become a skilled developer and build products that make a difference
 
-![](https://github-readme-stats.shion.dev/api?username=evanCoders&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=evanCoders&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=evanCoders&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Tech Stack
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,php,laravel,nodejs,python,kotlin,mysql,git,github,vscode&perline=7" alt="Tech Stack" />
+</p>GitHub Statistics
 
-### Tech Stack (Badges)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evanCoders&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9BBF3B&icon_color=9BBF3B&text_color=E6EDF3&rank_icon=github" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanCoders&layout=compact&hide_border=true&bg_color=0D1117&title_color=9BBF3B&text_color=E6EDF3&langs_count=8" height="170" alt="Top Languages" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=evanCoders&hide_border=true&background=0D1117&ring=9BBF3B&fire=9BBF3B&currStreakLabel=9BBF3B&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="70%" alt="GitHub Streak Stats" />
+</p>Featured Projects
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Basic-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Google Sign In](https://img.shields.io/badge/Google%20Sign--In-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+Connect With Me
 
----
+<p align="left">
+  <a href="https://github.com/evanCoders">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://evancoders.biz.id">
+    <img src="https://img.shields.io/badge/Portfolio-9BBF3B?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+</p>---
 
-### Tech Stack (Skill Icons)
-
-![My Skills](https://skillicons.dev/icons?i=mysql,mariadb,php,python,laravel,git,github,gitlab,canva&perline=9)
-
-**Catatan Level Kemampuan:**
-
-- PHP, Python, Laravel, Google Sign In -> Basic (masih belajar intensif)
-- MySQL, MariaDB, HTML, CSS, Git -> Nyaman digunakan
-- GitHub, GitLab, Canva -> Operasional dasar
-
-Target: semua skill minimal level Nyaman ke depan
-
----
-
-### Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vanzzsac2)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/EvanooE73986)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evancoder70@gmail.com)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanCoders/evanCoders/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evanCoders/evanCoders/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/evanCoders/evanCoders/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-![](https://komarev.com/ghpvc/?username=evanCoders&icon=0&color=0)
+<p align="center">
+  <i>"Keep learning what you can. Pursue it while you can."</i>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9BBF3B&height=100&section=footer" width="100%" alt="Footer banner" />
+</p>
