@@ -3,42 +3,16 @@
 
 # EVAN PURNAMALILA KOSASIH
 
-### Creative Developer
-
-*Building ideas into useful digital products.*
-
-`WEB DEVELOPMENT` · `CREATIVE THINKING` · `CONTINUOUS LEARNING`
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=9BBF3B&center=true&vCenter=true&width=600&lines=Creative+Developer;Web+%26+Application+Developer;Building+Ideas+into+Real+Products" alt="Typing animation" />
-
-</div>
-
-## Tentang Saya
-
-Saya **Evan Purnamalila Kosasih**, pengembang web dan aplikasi dari Jawa Barat, Indonesia.
-
-Saya senang mengeksplorasi ide, memahami cara kerja sesuatu, dan mengubah gagasan menjadi solusi digital yang bermanfaat. Dalam proses pengembangan, saya mengutamakan logika, fungsionalitas, efisiensi, serta kebutuhan pengguna.
-
-Bagi saya, membangun produk digital bukan sekadar menulis kode, melainkan memahami permasalahan, menyusun alur penyelesaian yang tepat, dan merancang solusi dengan tujuan yang jelas. Saya tertarik pada perpaduan teknologi, kreativitas, dan pemecahan masalah untuk menghasilkan produk yang fungsional dan bernilai guna.
-
-Setiap proyek merupakan kesempatan untuk bereksperimen, memperluas wawasan, dan mengembangkan kemampuan. Saya percaya bahwa proses belajar yang konsisten, keterbukaan terhadap ide baru, dan kolaborasi yang baik merupakan bagian penting dari perjalanan seorang pengembang.
-
-**Prinsip saya:** *Terus belajar apa yang bisa. Kejar selagi bisa.*
-
-
-<div align="center">
-
-# EVAN PURNAMALILA KOSASIH
-
 ### Junior Web & Application Developer
 
-*Belajar, bereksperimen, dan membangun solusi digital.*
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9BBF3B&center=true&vCenter=true&width=600&lines=Learning+%26+Building+Digital+Solutions;Web+%26+Application+Development;Turning+Ideas+Into+Useful+Products" alt="Typing SVG" />
+</p>
 
-`WEB DEVELOPMENT` · `APPLICATION DEVELOPMENT` · `CONTINUOUS LEARNING`
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=9BBF3B&center=true&vCenter=true&width=600&lines=Junior+Developer;Learning+Through+Projects;Turning+Ideas+Into+Digital+Products" alt="Typing animation" />
+<p>
+  <img src="https://img.shields.io/badge/Status-Currently%20Learning-9BBF3B?style=flat-square&labelColor=161B22" alt="Currently Learning" />
+  <img src="https://img.shields.io/badge/Location-West%20Java%2C%20Indonesia-9BBF3B?style=flat-square&labelColor=161B22" alt="Location" />
+</p>
 
 </div>
 
@@ -54,7 +28,9 @@ Saat ini, saya masih dalam tahap belajar dan terus memperdalam pemahaman melalui
 
 Saya terbuka terhadap ide baru, proses belajar bersama, dan kesempatan berkolaborasi untuk terus berkembang sebagai developer.
 
-**Prinsip saya:** *Terus belajar apa yang bisa. Kejar selagi bisa.*
+> **Prinsip saya:** *Terus belajar apa yang bisa. Kejar selagi bisa.*
+
+---
 
 ## Tech Stack
 
@@ -62,6 +38,8 @@ Saya terbuka terhadap ide baru, proses belajar bersama, dan kesempatan berkolabo
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,kotlin,react,vue,laravel,nodejs,mysql,git,github,vscode&perline=7" alt="Technologies and tools" />
 </p>
 
+---
+
 ## GitHub Statistics
 
 <div align="center">
@@ -70,47 +48,13 @@ Saya terbuka terhadap ide baru, proses belajar bersama, dan kesempatan berkolabo
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanCoders&layout=compact&hide_border=true&bg_color=0D1117&title_color=9BBF3B&text_color=E6EDF3&langs_count=8" height="170" alt="Most used programming languages" />
 
+<br />
+
 <img src="https://streak-stats.demolab.com?user=evanCoders&hide_border=true&background=0D1117&ring=9BBF3B&fire=9BBF3B&currStreakLabel=9BBF3B&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="70%" alt="GitHub contribution streak" />
-
-</div>
-
-## Connect With Me
-
-<div align="left">
-
-<a href="https://github.com/evanCoders">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://evancoders.biz.id">
-  <img src="https://img.shields.io/badge/Portfolio-9BBF3B?style=for-the-badge&logo=googlechrome&logoColor=161B22" alt="Portfolio" />
-</a>
 
 </div>
 
 ---
-
-<div align="center">
-
-**Terus belajar apa yang bisa. Kejar selagi bisa.**
-
-*Learn · Build · Grow*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:63284F,50:85462F,100:9A610E&height=160&section=footer&text=Thank%20You&fontSize=36&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%" alt="Thank You banner" />
-
-</div>
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=evanCoders&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9BBF3B&icon_color=9BBF3B&text_color=E6EDF3&rank_icon=github" height="170" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanCoders&layout=compact&hide_border=true&bg_color=0D1117&title_color=9BBF3B&text_color=E6EDF3&langs_count=8" height="170" alt="Most used programming languages" />
-
-<img src="https://streak-stats.demolab.com?user=evanCoders&hide_border=true&background=0D1117&ring=9BBF3B&fire=9BBF3B&currStreakLabel=9BBF3B&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="70%" alt="GitHub contribution streak" />
-
-</div>
-
 
 ## Connect With Me
 
@@ -134,7 +78,7 @@ Saya terbuka terhadap ide baru, proses belajar bersama, dan kesempatan berkolabo
 If you find my work useful and want to support my learning journey and future projects, you can support me through Saweria.
 
 <p align="left">
-  <a href="https://saweria.co/evanCoders">
+  <a href="GANTI_DENGAN_LINK_SAWERIA_KAMU">
     <img src="https://img.shields.io/badge/Support%20Me%20on-Saweria-FFB000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Saweria" />
   </a>
 </p>
@@ -143,8 +87,6 @@ If you find my work useful and want to support my learning journey and future pr
 
 <div align="center">
 
-**Terus belajar apa yang bisa. Kejar selagi bisa.**
-
-*Learn · Build · Grow*
+<sub>Learning continuously. Building thoughtfully. Improving every day.</sub>
 
 </div>
