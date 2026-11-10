@@ -27,7 +27,7 @@ Saya terbuka terhadap ide baru, proses belajar bersama, dan kesempatan berkolabo
 Saya juga sedang memperlajari beberapa tech dan stack, selain itu beberapa yang sering aku pake
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,php,python,react,vue,laravel,nodejs,vercel,mysql,git,github,vscode&perline=7"
+    src="https://skillicons.dev/icons?i=html,css,js,php,python,react,vue,laravel,nodejs,vercel,mysql,git,github,androidstudio,vscode&perline=7"
     alt="Technologies and tools"
   />
 </p>
